@@ -2,11 +2,15 @@
 
 This is an AI-powered chatbot designed to assist prospective students in answering admission-related queries using Retrieval-Augmented Generation (RAG) and IBM Granite foundation models.
 
+---
+
 ## 🚀 Project Features
 - Real-time natural language Q&A
 - Retrieval-based answers from a curated dataset
 - Built using Streamlit for easy deployment
 - Lightweight and runs on IBM Cloud Lite
+
+---
 
 ## 🛠️ Tech Stack
 - IBM Cloud Lite Services
@@ -15,8 +19,11 @@ This is an AI-powered chatbot designed to assist prospective students in answeri
 - Python
 - JSON (Data Source)
 
+---
+
 ## 📂 Repository Structure
 
+```plaintext
 College-Admission-Agent-RAG-Based-AI/
 │
 ├── admission_faq.json         # Admission Q&A dataset
@@ -29,13 +36,17 @@ College-Admission-Agent-RAG-Based-AI/
     ├── home_page.png
     ├── user_question.png
     └── ai_response.png
+```
 
+---
 
 ## 🖼️ Screenshots
 Go to `screenshots/` folder for:
 - Home page
 - User asking a question
 - AI-generated response
+
+---
 
 ## 🧪 How to Run
 1. Clone the repository  
@@ -53,6 +64,7 @@ pip install -r requirements.txt
 ```bash
 streamlit run app.py
 ```
+---
 
 ## 🔐 License
 This repository is licensed under the **MIT License**. Feel free to explore, use, or extend the code by providing proper attribution.
