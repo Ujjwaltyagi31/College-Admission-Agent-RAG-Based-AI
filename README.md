@@ -32,19 +32,19 @@ College-Admission-Agent-RAG-Based-AI/
 ├── README.md                  # Project description and setup guide
 ├── LICENSE                    # Open source license (MIT)
 ├── .gitignore                 # Files/folders to ignore in Git
-└── screenshots/
-    ├── home_page.png
-    ├── user_question.png
-    └── ai_response.png
+└── Screenshots/
+    ├── Home Page of Project.png
+    ├── Agent  Review.png
+    └── Project Deployment.png
 ```
 
 ---
 
 ## 🖼️ Screenshots
-Go to `screenshots/` folder for:
-- Home page
-- User asking a question
-- AI-generated response
+Go to the `Screenshots/` folder for:
+- Home page of the Project
+- Agent Review while User asking a question
+- Project Deployment
 
 ---
 
